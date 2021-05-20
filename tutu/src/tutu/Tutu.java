@@ -2,8 +2,8 @@ package tutu;
 
 public class Tutu {
 	
-	public boolean visualizarSalida(boolean acertada, int i, String newParam) {
-		return acertada;
+	public boolean visualizarSalida(boolean acertado, int i, String newParam) {
+		return acertado;
 		
 		}
 	
